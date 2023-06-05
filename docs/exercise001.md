@@ -19,7 +19,7 @@ So let's practice consuming this mock Promise.
 
 👉 If the promise is successful, write `Yay! Promise resolved with response: ` to the console. Use string interpolation to add the actual response at the end.
 
-👉 If the promise fails, write `Boo. Promise rejected with response: ` to the console. Use string interpolation to add the actual response at the end.
+👉 If the promise fails, write to the console. Use string interpolation to add the actual response at the end.
 
 👉 If your code works you should get console messages that say `Yay! Promise resolved with response: done` when the promise is successful and `Boo. Promise rejected with response: error` when the promise fails. Since the Promise is random you'll have to run it a few times to check you get both responses.
 
